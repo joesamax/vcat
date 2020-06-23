@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "net.ovh.hosting.cluster026.alizesdeep/adteam"
+        id          = "fr.ad-catalogue"
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>Demo vcard</name>
+	<name>catalogue virtuel</name>
 
 	<description></description>
 
@@ -32,7 +32,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-    <content src="http://alizesdeep.cluster026.hosting.ovh.net/alizescard/adteam/index.php" />
+    <content src="ad-catalogue.fr" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
