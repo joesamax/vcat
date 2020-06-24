@@ -5,9 +5,9 @@
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>catalogue virtuel</name>
+	<name>app hybrid demo </name>
 
-	<description></description>
+	<description>catalogue virtuel - itineraire - social sharing</description>
 
 	<author href="" email=""></author>
 
